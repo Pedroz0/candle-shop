@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+*{
+    background-color: rosybrown;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+    
+img{
+    margin-left: 540px;
+}
+
+h1{
+    margin-left: 500px;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+
+#text{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+    width: 200px;
+}
+
+#email{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+    width: 200px;
+}
+
+
+textarea{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 500px;
+    height: 200px;
+    width: 200px;
+}
+
+label{
+    margin-left: 500px;
+}
+
+button{
+    margin-left: 500px;
+}

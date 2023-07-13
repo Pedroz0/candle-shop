@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
+
+*{
+    background-color: rosybrown;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+#logo{
+    margin-left: 600px;
+    column-gap: 1px;
+}
+
+.velas-cards-container1 {    
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    margin-left: 190px;
+    align-items: center;
+    
+
+}
+
+h1{
+    margin-left: 590px;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+
+
+
+footer{
+    height: 300px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#logofooter{
+    margin-right: 20px;
+}
+
+span{
+    margin-top: 10px;
+    margin-right: 3%;
+    color: #fff;
+    font-family: "Kdam thmor pro", sans-serif;
+    display: block;
+}
+
+.footer.navigation{
+    display: none;    
+}
+
+.footer.list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contatoo{
+    background-color: rosybrown;
+}
+
+
